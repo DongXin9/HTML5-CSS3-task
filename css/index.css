@@ -143,10 +143,10 @@ body{
     border-bottom: 4px solid #fff;
 }
 #top2 li:hover {
-    border-bottom-color: #cb5405;
+    /* border-bottom-color: #cb5405; */
 }
 #top2 li:hover a{
-    color:#cb5405;
+    /* color:#cb5405; */
 }
 #top2-2{
     /* margin-top: 26px; */
