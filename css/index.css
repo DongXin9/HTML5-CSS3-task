@@ -407,7 +407,7 @@ body{
 /* 查看详情 */
 @media  screen  and (max-width: 760px){
     #detailed{
-        width: 100%;
+        width: 670px;
         height: 220px;
         padding: 0;
         border-top: 20px solid #f5f5f5;
@@ -525,8 +525,8 @@ body{
     #line{
         border-top: 20px solid #f5f5f5;
         padding: 0;
-        width: 100%;
-        margin: 0;
+        width: 670px;
+        margin: 0 auto;
         /* background:; */
     }
     .line1{
