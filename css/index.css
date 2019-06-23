@@ -12,6 +12,27 @@ body{
 	background: #fff;
 	margin: 0 auto;
 }
+.navbar-default .navbar-nav>.active>a{
+    background:transparent;
+    color:#cb5405;
+    border-bottom:4px solid #cb5405;
+}
+.navbar-default .navbar-nav>.active>a:hover{
+    background:transparent;
+    color:#cb5405;
+    border-bottom:4px solid #cb5405;
+}
+.navbar-default .navbar-nav>.active>a:focus{
+    background:transparent;
+    color:#cb5405;
+    border-bottom:4px solid #cb5405;
+}
+.navbar-default a:hover{
+    background:transparent;
+    color:#cb5405;
+    border-bottom:4px solid #cb5405;
+}
+
 /* 表头黑色框 */
 @media screen and (max-width:760px){
     .to{
