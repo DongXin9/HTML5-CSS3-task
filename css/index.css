@@ -39,6 +39,7 @@ body{
     #topp{
         top: 45px;
         background: #dddddd;
+        overflow: hidden;
     }
     .top0{
         height: 45px;
